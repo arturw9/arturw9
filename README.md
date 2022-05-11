@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturw9&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fidelis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Fidelis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Fidelis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/laravel/laravel/laravel-plain.svg">
   <img align="center" alt="Fidelis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Fidelis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
   <img align="center" alt="Fidelis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
