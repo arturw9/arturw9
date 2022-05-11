@@ -8,7 +8,7 @@
   <img align="center" alt="Fidelis-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Fidelis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Fidelis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Fidelis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
+  <img align="center" alt="Fidelis-Java" height="30" width="40" color="green" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
   <img align="center" alt="Fidelis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fidelis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fidelis-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
