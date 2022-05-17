@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Artur Fidelis 
  <div>
   <a href="https://github.com/arturw9">
+     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arturw9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturw9&layout=compact&langs_count=12&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
