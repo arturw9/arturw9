@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/arturw9">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arturw9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturw9&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturw9&layout=compact&langs_count=12&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fidelis-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
